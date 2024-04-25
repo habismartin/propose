@@ -49,8 +49,8 @@ function App() {
   return (
     <div className="App">
       <div className="question-box">
-        <img src={Cat} />
-        <h1>Hannah bbg, Will you be my gf?😔</h1>
+        <img src={Cat} alt="cat"/>
+        <h1>Queen bbg, Will you be my gf?😔</h1>
 
         <div className="buttons">
           <button
